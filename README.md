@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Next.js
 
-- 😄 Pronouns:  He/Him
+- 😄 Pronouns:  **He/Him**
 
 - 🌱 I’m currently looking for **opportunities to work in an environment that supports budding devs!!**
 
