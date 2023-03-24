@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Chavda</h1>
 <h3 align="center">I am a Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning **Next.js**
 
 - 😄 Pronouns:  **He/Him**
 
